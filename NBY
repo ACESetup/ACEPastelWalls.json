@@ -1,308 +1,307 @@
-[
-    {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/001ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 1",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/002ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 2",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/003ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 3",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/005ACEPastel.png",
-  "name": "ACE Retro wallpaper 4",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/006ACEPastel.png",
-  "name": "ACE Retro wallpaper 5",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/007ACEPastel.png",
-  "name": "ACE Retro wallpaper 6",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/008ACEPastel.png",
-  "name": "ACE Retro wallpaper 7",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/009ACEPastel.png",
-  "name": "ACE Retro wallpaper 8",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/010ACEPastel.png",
-  "name": "ACE Retro wallpaper 9",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/011ACEPastel.png",
-  "name": "ACE Retro wallpaper 10",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/013ACEPastel.png",
-  "name": "ACE Retro wallpaper 11",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/014CEPastel.png",
-  "name": "ACE Retro wallpaper 12",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/016ACEPastel.png",
-  "name": "ACE Retro wallpaper 13",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/017ACEPastel.png",
-  "name": "ACE Retro wallpaper 14",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/018ACEPastel.png",
-  "name": "ACE Retro wallpaper 15",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/019ACEPastel.png",
-  "name": "ACE Retro wallpaper 16",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/020ACEPastel.png",
-  "name": "ACE Retro wallpaper 17",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%201.png",
-  "name": "ACE Retro wallpaper 18",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%202.png",
-  "name": "ACE Retro wallpaper 19",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%203.png",
-  "name": "ACE Retro wallpaper 20",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%204.png",
-  "name": "ACE Retro wallpaper 21",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%205.png",
-  "name": "ACE Retro wallpaper 22",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%206.png",
-  "name": "ACE Retro wallpaper 23",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%207.png",
-  "name": "ACE Retro wallpaper 24",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%208.png",
-  "name": "ACE Retro wallpaper 25",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%209.png",
-  "name": "ACE Retro wallpaper 26",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%2010.png",
-  "name": "ACE Retro wallpaper 27",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%2011.png",
-  "name": "ACE Retro wallpaper 28",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%2016.png",
-  "name": "ACE Retro wallpaper 29",
-  "author": "Don7TK",
-  "collections": "Pastel"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%201.png",
-  "name": "Nothing wallpaper 1",
-  "author": "Don7TK",
-  "collections": "Nothing"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%202.png",
-  "name": "Nothing wallpaper 2",
-  "author": "Don7TK",
-  "collections": "Nothing"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%203.png",
-  "name": "Nothing wallpaper 3",
-  "author": "Don7TK",
-  "collections": "Nothing"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%204.png",
-  "name": "Nothing wallpaper 4",
-  "author": "Don7TK",
-  "collections": "Nothing"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%205.png",
-  "name": "Nothing wallpaper 5",
-  "author": "Don7TK",
-  "collections": "Nothing"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%206.png",
-  "name": "Nothing wallpaper 6",
-  "author": "Don7TK",
-  "collections": "Nothing"
- },
-  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%207.png",
-  "name": "Nothing wallpaper 7",
-  "author": "Don7TK",
-  "collections": "Nothing"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%201.png",
-  "name": "Dark Pastel wallpaper 1",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%202.png",
-  "name": "Dark Pastel wallpaper 2",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%203.png",
-  "name": "Dark Pastel wallpaper 3",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%204.png",
-  "name": "Dark Pastel wallpaper 4",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%205.png",
-  "name": "Dark Pastel wallpaper 5",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%206.png",
-  "name": "Dark Pastel wallpaper 6",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%207.png",
-  "name": "Dark Pastel wallpaper 7",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%208.png",
-  "name": "Dark Pastel wallpaper 8",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%209.png",
-  "name": "Dark Pastel wallpaper 9",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2010.png",
-  "name": "Dark Pastel wallpaper 10",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2011.png",
-  "name": "Dark Pastel wallpaper 11",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2012.png",
-  "name": "Dark Pastel wallpaper 12",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2013.png",
-  "name": "Dark Pastel wallpaper 13",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2014.png",
-  "name": "Dark Pastel wallpaper 14",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2015.png",
-  "name": "Dark Pastel wallpaper 15",
-  "author": "Don7TK",
-  "collections": "Retro"
- }
+[{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/001ACEPastel.jpg",
+		"name": "ACE Retro wallpaper 1",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/002ACEPastel.jpg",
+		"name": "ACE Retro wallpaper 2",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/003ACEPastel.jpg",
+		"name": "ACE Retro wallpaper 3",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/005ACEPastel.png",
+		"name": "ACE Retro wallpaper 4",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/006ACEPastel.png",
+		"name": "ACE Retro wallpaper 5",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/007ACEPastel.png",
+		"name": "ACE Retro wallpaper 6",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/008ACEPastel.png",
+		"name": "ACE Retro wallpaper 7",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/009ACEPastel.png",
+		"name": "ACE Retro wallpaper 8",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/010ACEPastel.png",
+		"name": "ACE Retro wallpaper 9",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/011ACEPastel.png",
+		"name": "ACE Retro wallpaper 10",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/013ACEPastel.png",
+		"name": "ACE Retro wallpaper 11",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/014CEPastel.png",
+		"name": "ACE Retro wallpaper 12",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/016ACEPastel.png",
+		"name": "ACE Retro wallpaper 13",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/017ACEPastel.png",
+		"name": "ACE Retro wallpaper 14",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/018ACEPastel.png",
+		"name": "ACE Retro wallpaper 15",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/019ACEPastel.png",
+		"name": "ACE Retro wallpaper 16",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/020ACEPastel.png",
+		"name": "ACE Retro wallpaper 17",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%201.png",
+		"name": "ACE Retro wallpaper 18",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%202.png",
+		"name": "ACE Retro wallpaper 19",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%203.png",
+		"name": "ACE Retro wallpaper 20",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%204.png",
+		"name": "ACE Retro wallpaper 21",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20WALL%20Pastel%205.png",
+		"name": "ACE Retro wallpaper 22",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%206.png",
+		"name": "ACE Retro wallpaper 23",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%207.png",
+		"name": "ACE Retro wallpaper 24",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%208.png",
+		"name": "ACE Retro wallpaper 25",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%209.png",
+		"name": "ACE Retro wallpaper 26",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%2010.png",
+		"name": "ACE Retro wallpaper 27",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%2011.png",
+		"name": "ACE Retro wallpaper 28",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/ACE%20Wall%20Pastel%2016.png",
+		"name": "ACE Retro wallpaper 29",
+		"author": "Don7TK",
+		"collections": "Pastel"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%201.png",
+		"name": "Nothing wallpaper 1",
+		"author": "Don7TK",
+		"collections": "Nothing"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%202.png",
+		"name": "Nothing wallpaper 2",
+		"author": "Don7TK",
+		"collections": "Nothing"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%203.png",
+		"name": "Nothing wallpaper 3",
+		"author": "Don7TK",
+		"collections": "Nothing"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%204.png",
+		"name": "Nothing wallpaper 4",
+		"author": "Don7TK",
+		"collections": "Nothing"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%205.png",
+		"name": "Nothing wallpaper 5",
+		"author": "Don7TK",
+		"collections": "Nothing"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%206.png",
+		"name": "Nothing wallpaper 6",
+		"author": "Don7TK",
+		"collections": "Nothing"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEWalls.json/main/Nothing%20Wall%207.png",
+		"name": "Nothing wallpaper 7",
+		"author": "Don7TK",
+		"collections": "Nothing"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%201.png",
+		"name": "Dark Pastel wallpaper 1",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%202.png",
+		"name": "Dark Pastel wallpaper 2",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%203.png",
+		"name": "Dark Pastel wallpaper 3",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%204.png",
+		"name": "Dark Pastel wallpaper 4",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%205.png",
+		"name": "Dark Pastel wallpaper 5",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%206.png",
+		"name": "Dark Pastel wallpaper 6",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%207.png",
+		"name": "Dark Pastel wallpaper 7",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%208.png",
+		"name": "Dark Pastel wallpaper 8",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%209.png",
+		"name": "Dark Pastel wallpaper 9",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2010.png",
+		"name": "Dark Pastel wallpaper 10",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2011.png",
+		"name": "Dark Pastel wallpaper 11",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2012.png",
+		"name": "Dark Pastel wallpaper 12",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2013.png",
+		"name": "Dark Pastel wallpaper 13",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2014.png",
+		"name": "Dark Pastel wallpaper 14",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Abstract%20Wall%2015.png",
+		"name": "Dark Pastel wallpaper 15",
+		"author": "Don7TK",
+		"collections": "Retro"
+	}
 ]
