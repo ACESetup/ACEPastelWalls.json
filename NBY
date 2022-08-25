@@ -303,5 +303,77 @@
 		"name": "Dark Pastel wallpaper 15",
 		"author": "Don7TK",
 		"collections": "Retro"
-	}
+	},
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Arsenal%20Wall%201.png",
+  "name": "Arsenal wallpaper 1",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Arsenal%20Wall%202.png",
+  "name": "Arsenal wallpaper 2",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Arsenal%20Wall%203.png",
+  "name": "Arsenal wallpaper 3",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Chelsea%20FC%201.png",
+  "name": "Chelsea wallpaper 11",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Chelsea%20FC%202.png",
+  "name": "Chelsea wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Chelsea%20FC%203.png",
+  "name": "Chelsea wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Liverpool%20FC%201.png",
+  "name": "Liverpool wallpaper 11",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Liverpool%20FC%202.png",
+  "name": "Liverpool wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/Liverpool%20FC%203.png",
+  "name": "Liverpool wallpaper 11",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/MAN%20UTD.%201.png",
+  "name": "Man Utd wallpaper 1",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/MAN%20UTD.%202.png",
+  "name": "Man Utd wallpaper 2",
+  "author": "Don7TK",
+  "collections": "Football"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/MAN%20UTD.%203.png",
+  "name": "Man Utd wallpaper 3",
+  "author": "Don7TK",
+  "collections": "Football"
+ }
 ]
